@@ -1,0 +1,61 @@
+/* LAYOUT */
+#container{
+  background: #FF1600;
+  width: 1000px;
+  margin: 0 auto 0 auto;
+}
+
+header{
+  background: #999999;
+}
+
+header li{
+  display: inline-block;
+}
+
+#logo{
+  width: 300px;
+  float: left;
+  background: url('images/DCL_logo325.jpg')  
+}
+
+#nav_links{
+width: 700px;
+  float: left;
+}
+
+#main_picture{
+  background: #666666;
+}
+
+#headline{
+  background: #777777;
+}
+
+#video{
+  background: #00D8FF;
+}
+
+#map{
+  background: #007D95;
+}
+
+#article{
+  background: #00D8FF;
+}
+
+#customers{
+  background: #007D95;
+}
+
+#endorsements{
+  background: #00D8FF;
+}
+
+#request{
+  background: #007D95;
+}
+
+footer{
+  background: #999999;
+}
