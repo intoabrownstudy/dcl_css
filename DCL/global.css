@@ -6,7 +6,7 @@
 }
 
 header{
-  background: #999999;
+  background: #C9C9C9;
 }
 
 header li{
@@ -16,7 +16,7 @@ header li{
 #logo{
   width: 300px;
   float: left;
-  background: url('images/DCL_logo325.jpg')  
+  background: url('images/DCL_logo325.jpg') 
 }
 
 #nav_links{
@@ -29,33 +29,33 @@ width: 700px;
 }
 
 #headline{
-  background: #777777;
+  background: #1D9A24;
 }
 
 #video{
-  background: #00D8FF;
+  background: #A4A0B4;
 }
 
 #map{
-  background: #007D95;
+  background: #FFF;
 }
 
 #article{
-  background: #00D8FF;
+  background: #A4A0B4;
 }
 
 #customers{
-  background: #007D95;
+  background: #FFF;
 }
 
 #endorsements{
-  background: #00D8FF;
+  background: #FFF;
 }
 
 #request{
-  background: #007D95;
+  background: #25ADB6;
 }
 
 footer{
-  background: #999999;
+  background: #750999;
 }
