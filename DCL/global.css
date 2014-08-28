@@ -93,10 +93,18 @@ width: 70%;
   float: left;
 }
 
+#endorsements li{
+  display: inline-block;
+}
+
 #request{
   background: #25ADB6;
   width: 100%;
   float: left;
+}
+
+#request li{
+  display: inline-block;
 }
 
 footer{
