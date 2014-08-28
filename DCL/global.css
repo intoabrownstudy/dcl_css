@@ -1,6 +1,6 @@
 #container{
   background: #FF1600;
-  width: 1000px;
+  width: 100%;
   margin: 0 auto 0 auto;
 }
 
@@ -13,20 +13,20 @@ header li{
 }
 
 #logo{
-  width: 300px;
+  width: 30%;
   float: left;
   background: url('images/DCL_logo325.jpg') 
 }
 
 #nav_links{
-width: 700px;
+width: 70%;
   float: left;
 }
 
 #main_picture{
   background: #00D8FF;
   float: left;
-  width: 1000px;
+  width: 100%;
 }
 
 #main_picture li a{
@@ -41,7 +41,7 @@ width: 700px;
 
 #main_links{
   background: #1D9A24;
-  width: 1000px;
+  width: 100%;
   float: left;
 }
 
@@ -51,48 +51,56 @@ width: 700px;
 
 #article_1{
   background: #A4A0B4;
-  width: 650px;
+  width: 65%;
   float: left;
 }
 
 #video{
   background: #A4A0B4;
-  width: 350px;
+  width: 35%;
   float: left;
 }
 
 #map{
   background: #FFF;
-  width: 1000px;
+  width: 100%;
   float: left;
 }
 
 #article_2{
   background: #A4A0B4;
-  width: 1000px;
+  width: 100%;
   float: left;
+}
+
+#article_2 li{
+  display: inline-block;
 }
 
 #customers{
   background: #FFF;
-  width: 1000px;
+  width: 100%;
   float: left;
+}
+
+#customers li{
+  display: inline-block;
 }
 
 #endorsements{
   background: #FFF;
-  width: 1000px;
+  width: 100%;
   float: left;
 }
 
 #request{
   background: #25ADB6;
-  width: 1000px;
+  width: 100%;
   float: left;
 }
 
 footer{
   background: #750999;
-  width: 1000px;
+  width: 100%;
   float: left;
 }
