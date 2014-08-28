@@ -25,11 +25,29 @@ width: 700px;
 }
 
 #main_picture{
-  background: #666666;
+  background: #00D8FF;
+  float: left;
+  width: 1000px;
 }
 
-#headline{
+#main_picture li a{
+  background: url("url(http://dclcorp.com/wp-content/uploads/2013/11/slide1.jpg)");
+  background-repeat: no-repeat;
+  width: 10px;
+  height: 0;
+  padding-top: 10px;
+  overflow: hidden;
+  display: inline-block;
+}
+
+#main_links{
   background: #1D9A24;
+  width: 1000px;
+  float: left;
+}
+
+#main_links li{
+  display: inline-block;
 }
 
 #video{
